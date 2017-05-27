@@ -23,7 +23,7 @@ boolean makeAction(void)
 返り値 true = 勝敗決着 false = 勝敗未決着  
 
 int countFlag(int select_w, int select_h)  
-引数: select_w = 選択したセルの[縦]の値 select_h = 選択したセルの[横]の値
+引数: select_w = 選択したセルの[縦]の値 select_h = 選択したセルの[横]の値  
 返り値: 引値によって表されるセルの周囲のセルのフラッグの数を返す  
 
 void setBomb(int set_w, int set_h, int set_bombs)  
