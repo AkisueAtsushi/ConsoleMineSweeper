@@ -1,7 +1,7 @@
 # ConsoleMineSweeper
 MineSweeper on CLI environment (study for Java, 6th April, 2009)
 
-## Mine Sweeper 仕様  
+## Mine Sweeper 遊び方  
 
 最初にフィールドの大きさを設定（20×20が最大）  
 セルの選択→[縦][横]を入力することで決定  
